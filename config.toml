@@ -2,3 +2,6 @@ baseURL = 'https://pir.nz/'
 languageCode = 'en-us'
 title = 'Index of pir.nz'
 theme = "blank"
+
+[markup.goldmark.renderer]
+unsafe= true
