@@ -12,9 +12,9 @@ Welcome to this place.
 
 (You need permission)
 
-![](/img/books.png)  [Book highlights](/i/libros)
+![](/img/books.png)  [Book highlights](/i/libros/)
 
-![](/img/notepad.jpg)  [Note drafts](/i/draft)
+![](/img/notepad.jpg)  [Note drafts](/i/draft/)
 
 </div>
 
