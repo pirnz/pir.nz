@@ -3,8 +3,20 @@ date: 2019-03-26T08:47:11+01:00
 draft: false
 ---
 
-Welcome.
+Welcome to this place.
 
-[My book highlights (need auth)](/secret/libros)
+<div class="box">
 
-[My note drafts (need auth)](/secret/draft)
+
+### Thought process
+
+(You need permission)
+
+![](/img/books.png)  [Book highlights](/i/libros)
+
+![](/img/notepad.jpg)  [Note drafts](/i/draft)
+
+</div>
+
+
+
