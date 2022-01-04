@@ -18,7 +18,5 @@ Welcome to this place.
 
 </div>
 
-Testing auto-deployment
-
 
 
