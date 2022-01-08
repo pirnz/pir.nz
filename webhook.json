@@ -23,7 +23,7 @@
   {
     "id": "can-i",
     "execute-command": "/home/vd/pir.nz/open-issue.sh",
-    "response-message": "<html><body><h1><img src=\"/icon/favicon.ico\" style=\"vertical-align:middle\" alt=\"main-icon\"> | <a class=\"title\" href=\"/\">pir.nz</a></h1><p>Thank you for reaching me, I'll come back to you soon. <a href=\"https://pir.nz/\">Go home</a></p></body></html>",
+    "response-message": "<html><body><h1>Thank you for reaching me, I'll come back to you soon. <a href=\"https://pir.nz/\">Go home</a></h1></body></html>",
     "pass-environment-to-command":
     [
       {
