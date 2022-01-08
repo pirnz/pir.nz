@@ -1,5 +1,27 @@
 .box {
-    background-color: aliceblue;
-    padding: 10px;
-    width: fit-content;    
+    background-color:ivory;
+    border: 2px;
+    border-style:dashed;
+    border-color: grey;
+    margin: 10px;
+    padding-left: 20px;
+    max-width: 200px; 
+}
+
+.title {
+    text-decoration-style: double;
+    font-size: larger;
+    color:darkslateblue
+}
+
+.title:hover {
+    color: darkblue;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.wrapper > section {
+    flex: 1;
 }
