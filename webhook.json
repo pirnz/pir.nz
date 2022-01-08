@@ -3,28 +3,82 @@
     "id": "allow-me",
     "execute-command": "null",
     "response-message": "<html><body><p>You have my permission. <a href=\"https://pir.nz/\">Go home</a></p></body></html>",
-    "response-headers": [{
-	    "name": "Set-Cookie",
-	    "value": "john=difool; Domain=pir.nz; Secure; Max-Age=3600; Path=/; SameSite=Strict"
-    }],
-    "trigger-rule":{
-	    "match": {
-	        "type": "value",
-       		"value": "read",
-	        "parameter":
-        	{
-	          "source": "url",
-        	  "name": "to"
-	        }
-	    }
+    "response-headers": [
+      {
+        "name": "Set-Cookie",
+        "value": "john=difool; Domain=pir.nz; Secure; Max-Age=3600; Path=/; SameSite=Strict"
+      }
+    ],
+    "trigger-rule": {
+      "match": {
+        "type": "value",
+        "value": "read",
+        "parameter": {
+          "source": "url",
+          "name": "to"
+        }
+      }
+    }
+  },
+  {
+    "id": "allow-me",
+    "execute-command": "null",
+    "response-message": "<html><body><p>You have my permission. <a href=\"https://pir.nz/\">Go home</a></p></body></html>",
+    "response-headers": [
+      {
+        "name": "Set-Cookie",
+        "value": "john=difool; Domain=pir.nz; Secure; Max-Age=3600; Path=/; SameSite=Strict"
+      }
+    ],
+    "trigger-rule": {
+      "match": {
+        "type": "value",
+        "value": "read",
+        "parameter": {
+          "source": "url",
+          "name": "to"
+        }
+      }
+    }
+  },
+  {
+    "id": "allow-me",
+    "execute-command": "/home/vd/pir.nz/open-issue.sh",
+    "response-message": "<html><body><p>Thank you for reaching me, I'll come back to you soon. <a href=\"https://pir.nz/\">Go home</a></p></body></html>",
+    "pass-environment-to-command":
+    [
+      {
+        "source": "payload",
+        "envname": "NAME",
+        "name": "name"
+      },
+      {
+        "source": "payload",
+        "envname": "EMAIL",
+        "name": "email"
+      },
+      {
+        "source": "payload",
+        "envname": "REASON",
+        "name": "reason"
+      }
+    ],
+    "trigger-rule": {
+      "match": {
+        "type": "value",
+        "value": "form",
+        "parameter": {
+          "source": "url",
+          "name": "origin"
+        }
+      }
     }
   },
   {
     "id": "redeploy",
     "execute-command": "/home/vd/pir.nz/redeploy-pir.nz.sh",
     "command-working-directory": "/home/vd/pir.nz",
-    "pass-arguments-to-command":
-    [
+    "pass-arguments-to-command": [
       {
         "source": "payload",
         "name": "head_commit.id"
@@ -38,29 +92,23 @@
         "name": "pusher.email"
       }
     ],
-    "trigger-rule":
-    {
-      "and":
-      [
+    "trigger-rule": {
+      "and": [
         {
-          "match":
-          {
+          "match": {
             "type": "payload-hmac-sha1",
             "secret": "pwrQYVCKSKu40dhM04U6iLYUl1HeGGTgFsOimKAU",
-            "parameter":
-            {
+            "parameter": {
               "source": "header",
               "name": "X-Hub-Signature"
             }
           }
         },
         {
-          "match":
-          {
+          "match": {
             "type": "value",
             "value": "refs/heads/main",
-            "parameter":
-            {
+            "parameter": {
               "source": "payload",
               "name": "ref"
             }
