@@ -10,7 +10,8 @@
 		{{ range .Paginator.Pages }}
 			{{ .Render "summary" }}
 		{{ end }}
+		<br>
 		{{ partial "pagination.html" . }}
 	</main>
-{{ partial "sidebar.html" . }}
+<!--{{ partial "sidebar.html" . }}-->
 {{ end }}
