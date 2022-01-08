@@ -4,7 +4,7 @@ draft: false
 title: Contact me
 ---
 
-<form action="/please/allow-me?origin=form" method="post" enctype="multipart/form-data">
+<form action="/please/can-i?origin=form" method="post" enctype="multipart/form-data">
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name" value="John"><br>
   <label for="email">Email:</label><br>

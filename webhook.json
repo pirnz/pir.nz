@@ -21,28 +21,7 @@
     }
   },
   {
-    "id": "allow-me",
-    "execute-command": "null",
-    "response-message": "<html><body><p>You have my permission. <a href=\"https://pir.nz/\">Go home</a></p></body></html>",
-    "response-headers": [
-      {
-        "name": "Set-Cookie",
-        "value": "john=difool; Domain=pir.nz; Secure; Max-Age=3600; Path=/; SameSite=Strict"
-      }
-    ],
-    "trigger-rule": {
-      "match": {
-        "type": "value",
-        "value": "read",
-        "parameter": {
-          "source": "url",
-          "name": "to"
-        }
-      }
-    }
-  },
-  {
-    "id": "allow-me",
+    "id": "can-i",
     "execute-command": "/home/vd/pir.nz/open-issue.sh",
     "response-message": "<html><body><p>Thank you for reaching me, I'll come back to you soon. <a href=\"https://pir.nz/\">Go home</a></p></body></html>",
     "pass-environment-to-command":
