@@ -30,7 +30,6 @@ To give plants a virtual space in my web as the same way they hold a physical sp
 | - | Money tree | [Pachira glabra](https://wikipedia.org/wiki/Pachira_glabra) |
 | - | - | - |
 | - | San Pedro cactus | [Echinopsis pachanoi](https://wikipedia.org/wiki/Echinopsis_pachanoi) |
-| - | Peyote | [Lophophora williamsii](https://wikipedia.org/wiki/Lophophora_williamsii) |
 | - | Star jasmine | [Trachelospermum jasminoides](https://wikipedia.org/wiki/Trachelospermum_jasminoides) |
 | - | Lady of the night | [Cestrum nocturnum](https://wikipedia.org/wiki/Cestrum_nocturnum) |
 | - | Mentha piperita | [Mentha × piperita](https://wikipedia.org/wiki/Mentha_%C3%97_piperita) |
