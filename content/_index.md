@@ -26,7 +26,7 @@ Welcome to this place.
 
 ### I have
 
-![](/img/tree.png)  [Plants](/has/plants/)
+![](/img/tree.png)  [Plants](/plants/)
 
 </section>
 </div>
