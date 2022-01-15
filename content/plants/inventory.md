@@ -23,7 +23,7 @@ summary: List of plant species I take care of.
 | Money tree | [Pachira glabra](https://wikipedia.org/wiki/Pachira_glabra) |
 | Peyote | [Lophophora williamsii](https://wikipedia.org/wiki/Lophophora_williamsii) |
 | San Pedro | [Echinopsis pachanoi](https://wikipedia.org/wiki/Echinopsis_pachanoi) |
-| Star jasmine | [Trachelospermum jasminoides](https://wikipedia.org/wiki/Trachelospermum_jasminoides) |
+| Confederate jasmine | [Trachelospermum jasminoides](https://wikipedia.org/wiki/Trachelospermum_jasminoides) |
 | Lady of the night | [Cestrum nocturnum](https://wikipedia.org/wiki/Cestrum_nocturnum) |
 | Mentha piperita | [Mentha × piperita](https://wikipedia.org/wiki/Mentha_%C3%97_piperita) |
 | Caraway thyme | [Thymus herba-barona](https://wikipedia.org/wiki/Thymus_herba-barona) |
