@@ -21,14 +21,7 @@ Welcome to this place.
 ![](/img/notepad.jpg)  [Note drafts](/thinks/ideas/)
 
 </section>
-<br>
-<section class="box">
 
-### I have
-
-![](/img/tree.png)  [Plants](/plants/)
-
-</section>
 </div>
 
 
