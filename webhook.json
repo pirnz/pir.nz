@@ -21,8 +21,44 @@
     }
   },
   {
+    "id": "sync-reader",
+    "execute-command": "/mnt/hdd/data/pir.nz/scripts/sync-ereader.sh",
+    "command-working-directory": "/mnt/hdd/data/pir.nz",
+    "response-message": "Sync done!",
+    "pass-environment-to-command":
+    [
+      {
+        "source": "url",
+        "envname": "HOST",
+        "name": "host"
+      }
+    ],
+    "trigger-rule": {
+       "and": [
+	       
+	       {"match": {
+	        "type": "regex",
+       		"value": ".*",
+        	"parameter": {
+          		"source": "url",
+          		"name": "host"
+        	}
+      		}},
+		
+		{"match": {
+		"type": "value",
+		"value": "incal",
+		"parameter": {
+			"source": "url",
+			"name": "soy"
+		}}}
+       ]
+    }
+  },
+  {
     "id": "can-i",
-    "execute-command": "/home/vd/pir.nz/open-issue.sh",
+    "execute-command": "/mnt/hdd/data/pir.nz/scripts/open-issue.sh",
+    "command-working-directory": "/mnt/hdd/data/pir.nz",
     "response-message": "Thank you!",
     "success-http-response-code": 302,
     "response-headers": [
@@ -62,8 +98,8 @@
   },
   {
     "id": "redeploy",
-    "execute-command": "/home/vd/pir.nz/redeploy-pir.nz.sh",
-    "command-working-directory": "/home/vd/pir.nz",
+    "execute-command": "/mnt/hdd/data/pir.nz/scripts/redeploy-pir.nz.sh",
+    "command-working-directory": "/mnt/hdd/data/pir.nz",
     "pass-arguments-to-command": [
       {
         "source": "payload",
