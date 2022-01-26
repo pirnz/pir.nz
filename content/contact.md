@@ -1,7 +1,7 @@
 ---
-date: 2022-01-07
 draft: false
 title: Contact me
+type: page
 ---
 
 <form action="/please/can-i?origin=form" method="post" enctype="multipart/form-data">

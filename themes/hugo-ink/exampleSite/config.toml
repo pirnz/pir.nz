@@ -1,20 +1,23 @@
-baseURL = "https://pir.nz/"
-languageCode = 'en-uk'
-title = "pir.nz"
-theme = "hugo-ink"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ink"
+theme = "ink"
 paginate = 5
 
-enableGitInfo = true
+copyright = "© Copyright notice"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+googleAnalytics = "UA-123-45"
+disqusShortname = "ink-demo"
+
 [params]
-	subtitle = "Welcome to my site"
+	subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
 
 	# Optional 64x64 avatar image.
-	avatar = "/icon/android-chrome-192x192.png"
+	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
@@ -33,20 +36,24 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Contact me"
-url = "/contact/"
+name = "All posts"
+url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "Personal links"
-url = "/personal/"
+name = "About"
+url = "/about"
 weight = 3
 
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
 
-# [[params.social]]
-# name = "Github"
-# icon = "github"
-# url = "https://github.com/knadh/hugo-ink"
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/knadh/hugo-ink"
 
 [[params.social]]
 name = "RSS"
@@ -55,6 +62,3 @@ url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
-
-[markup.goldmark.renderer]
-unsafe= true
