@@ -28,7 +28,7 @@
 # A basic redirect rule
 [[redirects]]
   from = "please/*"
-  to = "https://h.de.pir.nz/please/"
+  to = "https://h.de.pir.nz/please/:splat"
   force = true
   status = 200
   # Redirect from /old-path?id=123 to /new-path. 
