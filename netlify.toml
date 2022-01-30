@@ -28,9 +28,9 @@
 # A basic redirect rule
 [[redirects]]
   from = "please/*"
-  to = "https://h.de.pir.nz/please/*"
+  to = "https://h.de.pir.nz/please/"
   force = true
-
+  status = 200
   # Redirect from /old-path?id=123 to /new-path. 
   # Each combination of query params needs to be 
   # defined in a separate [[redirects]] block.
