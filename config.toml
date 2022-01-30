@@ -38,8 +38,8 @@ url = "/contact/"
 weight = 2
 
 [[menu.main]]
-name = "Personal links"
-url = "/personal/"
+name = "Personal notes"
+url = "https://notas.de.pir.nz"
 weight = 3
 
 
