@@ -28,9 +28,3 @@
   force = true
   status = 200
 
-# Redirect for notas
-[[redirects]]
-  from = "old/*"
-  to = "https://notas.de.pir.nz/:splat"
-  force = true
-  status = 200
