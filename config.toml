@@ -39,7 +39,7 @@ weight = 2
 
 [[menu.main]]
 name = "Personal notes"
-url = "https://notas.de.pir.nz"
+url = "/old/"
 weight = 3
 
 
