@@ -21,10 +21,6 @@
   HUGO_VERSION = "0.83.1"
   HUGO_ENV = "production"
 
-# Show custom error pages 
-/*    /404/  404
-/*    /403/  403
-
 
 # Redirect for webhooks
 # [[redirects]]
