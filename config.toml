@@ -66,8 +66,5 @@ name = "RSS"
 icon = "rss"
 url = "/index.xml"
 
-[taxonomies]
-   tag = "tags"
-
 [markup.goldmark.renderer]
 unsafe= true
