@@ -22,6 +22,10 @@ pygmentscodefencesguesssyntax = true
    families = "/garden/families/:slug/"
    subfamilies = "/garden/subfamilies/:slug/"
    genera = "/garden/genera/:slug/"
+   orders = "/garden/orders/"
+   families = "/garden/families/"
+   subfamilies = "/garden/subfamilies/"
+   genera = "/garden/genera/"
 
 [params]
 	favicon = "/icon/favicon.ico"
