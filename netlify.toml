@@ -22,9 +22,9 @@
   HUGO_ENV = "production"
 
 # Redirect for webhooks
-[[redirects]]
-  from = "please/*"
-  to = "https://h.de.pir.nz/please/:splat"
-  force = true
-  status = 200
+# [[redirects]]
+#   from = "please/*"
+#   to = "https://h.de.pir.nz/please/:splat"
+#   force = true
+#   status = 200
 
