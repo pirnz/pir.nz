@@ -5,11 +5,11 @@ tags:
 date: 2022-03-20
 toc: true
 draft: false
+description: Questions that I've had working with git
 ---
 
-These are questions that I've had when working with git. 
 
-#### Use different author info for each repo
+## Use different author info for each repo
 
 Using the git commands:
 
@@ -22,7 +22,7 @@ They will take over the values you might have set in the `--global` configuratio
 
 Check the current configuration with `git config --list`. The global confuration shows first, then the local. Check the last appearence of `user.email` and `user.name`.
 
-#### How to change the username and email of previous commits
+## How to change the username and email of previous commits
 
 ```shell
 git rebase -i --root -x "git commit --amend --author 'Author Name <author.name@mail.com>' --no-edit"
