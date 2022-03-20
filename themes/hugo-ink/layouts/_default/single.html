@@ -17,6 +17,11 @@
 				{{ end }}
 				<div class="matter">
 					<h1 class="title">{{ .Title }}</h1>
+					<span class="description">
+						{{ if isset .Params "description" }}
+							<i>{{ .Description }}</i>
+						{{end}}
+					</span>
 				</div>
 			</div>
 					
