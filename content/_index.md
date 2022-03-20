@@ -1,7 +1,7 @@
 ---
 draft: false
-title: Home page
+title: 
 ---
 
-
+Welcome to my site!
 

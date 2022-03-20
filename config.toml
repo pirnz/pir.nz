@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
-	subtitle = "Welcome to my site"
+	subtitle = ""
 	mainSections = ["posts"]
 	# Optional 64x64 avatar image.
 	avatar = "/icon/android-chrome-192x192.png"

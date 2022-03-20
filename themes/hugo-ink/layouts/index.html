@@ -5,6 +5,13 @@
 	<div class="container wrapper">
 		{{ partial "head.html" . }}
 
+		{{ if .Title }}
+		<div class="matter">
+			<h1 class="title">{{ .Title }}</h1>
+		</div>
+		{{ end }}
+		
+
 		{{.Content}}
 
 		<div class="recent-posts section">
