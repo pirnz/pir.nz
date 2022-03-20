@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
 	subtitle = "Welcome to my site"
-
+	mainSections = ["posts"]
 	# Optional 64x64 avatar image.
 	avatar = "/icon/android-chrome-192x192.png"
 
@@ -38,9 +38,14 @@ url = "/contact/"
 weight = 2
 
 [[menu.main]]
+name = "Plants"
+url = "/garden/"
+weight = 3
+
+[[menu.main]]
 name = "Personal notes"
 url = "https://notas.de.pir.nz/"
-weight = 3
+weight = 4
 
 
 # [[params.social]]
