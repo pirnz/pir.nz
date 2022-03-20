@@ -33,6 +33,7 @@ document.addEventListener("DOMContentLoaded", function(){
 function darkscheme(toggle, container) {
   localStorage.setItem("scheme", "dark");
   toggle.innerHTML = feather.icons.sun.toSvg();
+  document.getElementById("avatar").style.filter="invert(100%)";
   toggle.className = "dark";
   container.className = "dark";
 }
@@ -40,6 +41,7 @@ function darkscheme(toggle, container) {
 function lightscheme(toggle, container) {
   localStorage.setItem("scheme", "light");
   toggle.innerHTML = feather.icons.moon.toSvg();
+  document.getElementById("avatar").style.filter="invert(0%)";
   toggle.className = "light";
   container.className = "";
 }
