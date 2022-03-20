@@ -1,7 +1,7 @@
 ---
-draft: false
 title: Contact me
 type: page
+draft: false
 ---
 
 <form action="/please/can-i?origin=form" method="post" enctype="multipart/form-data">
