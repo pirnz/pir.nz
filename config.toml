@@ -11,6 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
+	favicon = "/icon/favicon.ico"
 	subtitle = ""
 	mainSections = ["posts"]
 	# Optional 64x64 avatar image.
