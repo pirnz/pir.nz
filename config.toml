@@ -16,6 +16,12 @@ pygmentscodefencesguesssyntax = true
   subfamily = 'subfamilies'
   genus = 'genera'
   tag = 'tags'
+  
+[permalinks]
+   orders = "/garden/orders/:slug/"
+   families = "/garden/families/:slug/"
+   subfamilies = "/garden/subfamilies/:slug/"
+   genera = "/garden/genera/:slug/"
 
 [params]
 	favicon = "/icon/favicon.ico"
