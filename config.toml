@@ -11,10 +11,10 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [taxonomies]
-  order = 'order'
-  family = 'family'
-  subfamily = 'subfamily'
-  genus = 'genus'
+  order = 'orders'
+  family = 'families'
+  subfamily = 'subfamilies'
+  genus = 'genera'
   tag = 'tags'
 
 [params]
