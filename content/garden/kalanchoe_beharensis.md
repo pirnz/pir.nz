@@ -11,7 +11,7 @@ description: elephant's ear kalanchoe, felt bush, or feltbush
 
 From [laidbackgardener.blog](https://laidbackgardener.blog/2020/11/15/huggable-houseplants/)
 
-# Reproduction by cuttings
+### Reproduction by cuttings
 
 Leaves sprout new children. To avoid rotting, let the leaf dry for a week (don't worry if it starts shrinking). Then place in not-very-moist soil. For reference check [this picture](https://davesgarden.com/community/forums/fp.php?pid=9849936&extraimg=3#b).
 
