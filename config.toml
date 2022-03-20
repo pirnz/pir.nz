@@ -10,6 +10,13 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+[taxonomies]
+  order = 'order'
+  family = 'family'
+  subfamily = 'subfamily'
+  genus = 'genus'
+  tag = 'tags'
+
 [params]
 	favicon = "/icon/favicon.ico"
 	subtitle = ""

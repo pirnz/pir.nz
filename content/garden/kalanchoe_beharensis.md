@@ -2,6 +2,14 @@
 title: Kalanchoe beharensis
 draft: false
 date: 2022-03-19
+order:
+- Saxifragales
+family:
+- Crassulaceae
+subfamily:
+- Kalanchoideae
+genus:
+- Kalanchoe    
 description: elephant's ear kalanchoe, felt bush, or feltbush
 ---
 
