@@ -1,5 +1,5 @@
 ---
-title: Kalanchoe beharensis
+title: Platycerium bifurcatum
 draft: false
 date: 2021-04-01
 tags:
@@ -17,6 +17,6 @@ description: staghorn, elkhorn ferns
 
 [Wikipedia entry](https://en.m.wikipedia.org/wiki/Platycerium)
 
-Not sure which specie I have:
+
 
 http://www.platycerium.co.za/species.htm
