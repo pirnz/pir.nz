@@ -1,4 +1,4 @@
-——-
+---
 title: Kalanchoe beharensis
 draft: false
 date: 2021-04-01
@@ -13,7 +13,7 @@ subfamilies:
 genera:
 - Platycerium    
 description: staghorn, elkhorn ferns
-——-
+---
 
 [Wikipedia entry](https://en.m.wikipedia.org/wiki/Platycerium)
 
