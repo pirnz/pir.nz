@@ -15,6 +15,8 @@ genera:
 description: staghorn, elkhorn ferns
 ---
 
+[Platycerium bifurcatum in half a coconut](./platycerium_bifurcatum.png)
+
 [Wikipedia entry](https://en.m.wikipedia.org/wiki/Platycerium)
 
 
