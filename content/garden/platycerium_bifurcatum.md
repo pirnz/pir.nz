@@ -15,10 +15,16 @@ genera:
 description: staghorn, elkhorn ferns
 ---
 
-![Platycerium bifurcatum in half a coconut](./platycerium_bifurcatum.png)
+![Platycerium bifurcatum growing on half a coconut](./platycerium_bifurcatum.png)
 
-[Wikipedia entry](https://en.m.wikipedia.org/wiki/Platycerium)
+> Platycerium bifurcatum is Native to Australia. [...] The name is derived from the word “bifurcate” which means to fork or divide.
 
+> Platycerium ferns are Epiphytes, like orchids, which means that they only grow **on** the host plant and not **from** the host plant like Parasites. Epiphytes generate their own food and are not dependent on the host plant for sustenance.
 
+From [The Platycerium site](http://www.platycerium.co.za/species.htm).
 
-http://www.platycerium.co.za/species.htm
+### More info
+
+- [Wikipedia entry](https://en.m.wikipedia.org/wiki/Platycerium)
+
+- [The Platycerium site](http://www.platycerium.co.za/species.htm)
