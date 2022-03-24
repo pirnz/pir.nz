@@ -15,6 +15,7 @@ genera:
 description: moon orchid, moth orchid
 ---
 
+![No flowers now :(](./phalaenopsis_amabilis.png)
 
 ### More info
 
