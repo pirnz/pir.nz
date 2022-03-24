@@ -41,11 +41,6 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Contact me"
-url = "/contact/"
-weight = 2
-
-[[menu.main]]
 name = "Plants"
 url = "/garden/"
 weight = 3
