@@ -1,16 +1,22 @@
 ---
-title: Kalanchoe beharensis
-draft: true
-date: 2022-03-19
+title: Ficus benjamina
+draft: false
+date: 2018-04-01
 tags:
 - garden
 orders:
-- saxifragales
+- rosales
 families:
-- Crassulaceae
+- Moraceae
 subfamilies:
-- Kalanchoideae
+- Ficeae
 genera:
-- Kalanchoe    
-description: elephant’s ear kalanchoe, felt bush, or feltbush
+- Ficus    
+description:  benjamin fig, ficus tree
 ---
+
+![Distribution](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ficus_benjamina_distribution.jpg/640px-Ficus_benjamina_distribution.jpg)
+
+### More info
+
+[Wikipedia entry](https://wikipedia.org/wiki/Ficus_benjamina)
