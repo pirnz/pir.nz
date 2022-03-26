@@ -1,5 +1,5 @@
 ---
-title: Plant directory
+title: My garden
 draft: false
 ---
 
