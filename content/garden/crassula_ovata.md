@@ -17,7 +17,7 @@ description:  spoon jade, hobbit jade, Gollum jade, ET’s fingers, finger jade,
 
 Cultivar _Monstruosa_:
 
-[Crassula ovata “bonsai”](./crassula_ovata) 
+![Crassula ovata “bonsai”](./crassula_ovata.png) 
 
 > Native to the KwaZulu-Natal and Eastern Cape provinces of South Africa, and Mozambique.
 
