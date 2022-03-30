@@ -2,7 +2,7 @@ baseURL = "https://pir.nz/"
 languageCode = 'en-uk'
 title = "pir.nz"
 theme = "hugo-ink"
-paginate = 5
+#paginate = 5
 
 enableGitInfo = true
 
