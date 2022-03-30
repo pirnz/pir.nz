@@ -21,7 +21,7 @@ imagealt: Cestrum nocturnum growing at the beggining of spring
 
 Last winter, some of the leaves (the newer ones) turned white:
 
-![Cestrum nocturnum leaves are white due to low temperatures](./cestrum_nocturnum_white.png)
+![Cestrum nocturnum leaves are white due to low temperatures](./cestrum_nocturnum_white_leaves.png)
 
 The cold can kill part of the leaf, leaving it white.
 
