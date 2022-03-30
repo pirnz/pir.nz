@@ -13,9 +13,11 @@ subfamilies:
 genera:
 - Phalaenopsis    
 description: moon orchid, moth orchid
+nativeto: East Indies and Australia
+image: phalaenopsis_amabilis.png
+imagealt: No flowers now :(
 ---
 
-![No flowers now :(](./phalaenopsis_amabilis.png)
 
 ### More info
 

@@ -13,15 +13,22 @@ subfamilies:
 genera:
 - Crassula    
 description:  spoon jade, hobbit jade, Gollum jade, ET’s fingers, finger jade, trumpet jade, ogre ears
+nativeto: KwaZulu-Natal and Eastern Cape provinces of South Africa, Mozambique.
+image: crassula_ovata.png
+imagealt: Crassula ovata “bonsai”
 ---
 
-Cultivar _Monstruosa_:
+The plant shown in the picture is the cultivar _Monstruosa_. I have been cloning this plant since 2002.
 
-![Crassula ovata “bonsai”](./crassula_ovata.png) 
+### Reproduction by cuttings
 
-> Native to the KwaZulu-Natal and Eastern Cape provinces of South Africa, and Mozambique.
+You can cut a piece or take a single leaf. 
 
+Leaves sprout new children and cuttings can take roots. To get the best result:
+
+1. Let the leaves dry for a week (don't worry if it starts shrinking). This will prevent rotting. 
+2. Place in not-very-moist soil. 
 
 ### More info
 
-[Wikipedia entry](https://wikipedia.org/wiki/Crassula_ovata) (Monstruosa) 
+[Wikipedia entry](https://wikipedia.org/wiki/Crassula_ovata)

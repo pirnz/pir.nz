@@ -13,12 +13,12 @@ subfamilies:
 genera:
 - Salvia    
 description: rosemary
+nativeto: Mediteranean region and Southern Africa
+image: salvia_rosmarinus_2.png
+imagealt: Blossoming rosemary
 ---
 
-![Rosemary with flowers](./salvia_rosmarinus.jpg)
-
-Rosemary appeared in the Mediteranean region (South Europe, Near East and North Africa) and Southern Africa.
-
+[Close up on a flower](./salvia_rosmarinus_flower.jpg)
 
 ### More info
 

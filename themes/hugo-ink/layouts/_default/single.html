@@ -23,8 +23,50 @@
 							<i>{{ .Description }}</i>
 						{{end}}
 					</span>
-				</div>
+				</div>				
 			</div>
+
+			{{ if isset .Params "image" }}
+				<img src="./{{ .Params.image }}" alt="{{ .Params.imagealt }}">
+			{{end}}
+
+			<div >
+				{{ if ne .Type "page" }}
+					{{ if gt .Params.orders 0 }}
+
+							{{ range .Params.orders }}
+							<a href="{{ "/orders/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+							{{ end }}
+	
+					{{ end }} - 
+					{{ if gt .Params.families 0 }}
+
+							{{ range .Params.families }}
+							<a href="{{ "/families/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+							{{ end }}
+
+					{{ end }} - 
+					{{ if gt .Params.subfamilies 0 }}
+
+							{{ range .Params.subfamilies }}
+							<a href="{{ "/subfamilies/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+							{{ end }}
+
+					{{ end }} - 
+					{{ if gt .Params.genera 0 }}
+
+							{{ range .Params.genera }}
+							<a href="{{ "/genera/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+							{{ end }}
+
+					{{ end }}
+				{{ end }}
+			</div>
+			{{ if isset .Params "nativeto" }}
+				<div class="nativeto">
+					<p><b>Native to: </b>{{ .Params.Nativeto }}</p>
+				</div>
+			{{end}}
 					
 			<div class="markdown">
 				{{ .Content }}

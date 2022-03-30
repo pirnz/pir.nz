@@ -5,7 +5,7 @@ date: 2018-04-01
 tags:
 - garden
 orders:
-- rosales
+- Rosales
 families:
 - Moraceae
 subfamilies:
@@ -13,11 +13,11 @@ subfamilies:
 genera:
 - Ficus    
 description:  benjamin fig, ficus tree
+nativeto: Asia and Australia
+image: ficus_benjamina.png
+imagealt: Trying to make a bonsai out of it
 ---
 
-![ficus_benjamina)](./ficus_benjamina.png)
-
-![Distribution](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ficus_benjamina_distribution.jpg/640px-Ficus_benjamina_distribution.jpg)
 
 ### More info
 

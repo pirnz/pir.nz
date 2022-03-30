@@ -13,6 +13,9 @@ subfamilies:
 genera:
 - Ficus    
 description:  benjamin fig, ficus tree
+nativeto: Mediteranean region and Southern Africa
+image: salvia_rosmarinus_2.png
+imagealt: Blossoming rosemary
 ---
 
 
