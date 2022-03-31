@@ -23,7 +23,7 @@ Cestrum nocturnum comes from subtropical areas, but adapts to other climates eas
 
 Last winter, some of the leaves (the newer ones) turned white:
 
-![Cestrum nocturnum leaves are white due to low temperatures](./cestrum_nocturnum_white.png)
+![Cestrum nocturnum leaves are white due to low temperatures](./cestrum_nocturnum_white_leaves.png)
 
 This is a result of cold drafts and low temperatures. 
 
