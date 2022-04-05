@@ -1,5 +1,5 @@
 ---
-title: Home guide
+title: Dear guest 
 draft: true
 ---
 

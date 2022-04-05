@@ -3,7 +3,10 @@ title: The living room
 draft: true
 ---
 
-# The door of the terrace is old
+
+# The small window needs to be locked
+
+It can be open from outside. You can pull the blinds down.
 
 # Hidden light switches
 
