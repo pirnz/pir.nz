@@ -45,10 +45,10 @@ name = "Plants"
 url = "/garden/"
 weight = 3
 
-[[menu.main]]
-name = "Personal notes"
-url = "https://notas.de.pir.nz/"
-weight = 4
+#[[menu.main]]
+#name = "Personal notes"
+#url = "https://#notas.de.pir.nz/"
+#weight = 4
 
 
 # [[params.social]]
